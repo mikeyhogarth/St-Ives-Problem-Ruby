@@ -1,6 +1,6 @@
 
 #riddle me this, riddle me that,
-#to solve this riddle you will
+#to solve this puzzle you will
 require "some-facts" 
 
 as_i_was_going_to :st_ives
